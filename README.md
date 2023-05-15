@@ -32,6 +32,6 @@ From here, use the pfcofig tool to set up static ip
 I am using a 7i96s and 4Gb Pi4
 ``
 
-``
+'
 7i96s docs: http://www.mesanet.com/pdf/parallel/7i96sman.pdf
-``
+'
