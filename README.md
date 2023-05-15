@@ -20,6 +20,8 @@ static domain_name_servers=<________________>
 ``
 After reboting, this should ping as 10.10.10.10
 ``
+
 ``
-From here, use the pfcofig tool to set up 
+From here, use the pfcofig tool to set up static ip
 ``
+******************************************************************************************************************
