@@ -14,3 +14,6 @@ static ip6_address=<__________________________________>
 static routers=<_____________>
 static domain_name_servers=<________________>
 ```
+`
+After reboting, this should ping as 10.10.10.10
+`
